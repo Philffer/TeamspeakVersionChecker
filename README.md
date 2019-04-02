@@ -2,6 +2,14 @@
 
 This project was written in Kotlin.
 
+## Getting started
+
+To get this project use 
+```
+git pull https://github.com/Philffer/TeamspeakVersionChecke.git
+```
+or download it as a .zip.
+
 ## Functionality
 
 It scrapes the current version and download-URL from https://www.teamspeak.com/en/downloads/
@@ -11,9 +19,10 @@ It scrapes the current version and download-URL from https://www.teamspeak.com/e
 * JSOUP (for HTML parsing)
 * kotlin-script-runtime (for running .kts scripts) 
 
-## Build Tool
+## Build with
 
-I used maven as a build tool. You can compile the repository as a .jar file and add it to your project with the command
+* [Maven](https://maven.apache.org/) - Dependency Management.
+You can compile the repository as a .jar file and add it to your project with the command
 `mvn clean install`
 
 ## How to use
