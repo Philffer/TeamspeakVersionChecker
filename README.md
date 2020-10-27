@@ -6,7 +6,7 @@ This project was written in Kotlin.
 
 To get this project use 
 ```
-git pull https://github.com/Philffer/TeamspeakVersionChecke.git
+git pull https://github.com/Philffer/TeamspeakVersionChecker.git
 ```
 or download it as a .zip.
 
